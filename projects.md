@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ...
 
-* [Glycoscience visiblity](visibility)
+* [Glycoscience visiblity](https://github.com/the-human-glycome-project/visibility)
