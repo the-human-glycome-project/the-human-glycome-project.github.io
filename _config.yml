@@ -16,7 +16,7 @@
 title: The Human Glycome Project GH
 email: genadijrazdorov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A workplace for The Human Glycome Project
+  A glycoscience forum for The Human Glycome Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://the-human-glycome-project.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GlycomeHuman

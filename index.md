@@ -8,7 +8,9 @@ layout: home
 ---
 {% include abbreviations.md %}
 
-Welcome to HGP GH Home page.
+Welcome to HGP GH, a place to discuss glycoscience under HGP.
 
-You can find projects under [Projects]({% link projects.md %}) page.
+For the general discussions please go to [Forum](https://github.com/the-human-glycome-project/forum/issues).
+
+For more focused discussions please check projects under [Projects]({% link projects.md %}) page.
 

@@ -5,6 +5,7 @@ permalink: /about/
 ---
 {% include abbreviations.md %}
 
-The HGP GH Page is a working place for the HGP.
+The HGP GH Page is a internet forum for the HGP.
 
-For the main site please go to the [human-glycome.org](https://human-glycome.org/)
+For the main site of the HGP please go to [human-glycome.org](https://human-glycome.org/).
+
