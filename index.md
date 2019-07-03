@@ -10,7 +10,7 @@ layout: home
 
 Welcome to HGP GH, a place to discuss glycoscience under HGP.
 
-For the general discussions please go to [Forum](https://github.com/the-human-glycome-project/forum/issues).
+For the general discussions please go to [Forum](https://github.com/the-human-glycome-project/forum/issues/1).
 
 For more focused discussions please check projects under [Projects]({% link projects.md %}) page.
 
